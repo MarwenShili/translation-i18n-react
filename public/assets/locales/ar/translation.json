@@ -1,0 +1,43 @@
+{
+  "app_title": "عنوان",
+  "language": "اللغة",
+  "welcome_message": "اهلا بكم",
+  "days_since_release": "لقد مرت {{number_of_days}} أيام على إصدار هذا الفيديو",
+  "header": {
+    "logo": " سوق الفجر",
+    "about_as": "من نحن",
+    "cart": "العربة",
+    "login": "الدخول",
+    "register": "التسجيل"
+  },
+  "search": {
+    "label": "ابحث عن طلبك... "
+  },
+  "filter_nav": {
+    "Price": "السعر للكيلوغرام ",
+    "r_s": "",
+    "product_type": "",
+    "Select_all": "",
+    "unselect_all": "",
+    "show_all": "",
+    "show_less": "",
+    "Origin_Market": "",
+    "Availability": ""
+  },
+  "categories": {
+    "Vegetable": "",
+    "fruit": "",
+    "dates": "",
+    "fish": ""
+  },
+  "products": {
+    "kg": "",
+    "sar": "",
+    "ِAuction_Price": "",
+    "Available": "",
+    "Sold_out_Today": ""
+  },
+  "action_home": {
+    "account": ""
+  }
+}
